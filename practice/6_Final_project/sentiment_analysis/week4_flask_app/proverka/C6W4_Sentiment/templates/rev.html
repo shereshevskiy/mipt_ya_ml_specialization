@@ -1,0 +1,12 @@
+<!doctype html>
+<title>Sentiments</title>
+<form action="{{ url_for('index_page') }}" method=post>
+    <dl>
+        <dt>Enter movie review here: <br>
+        <dd><textarea name=text rows=5 cols=40>{{ text }}</textarea>
+        <dd><input type=submit value="Estimate">
+    </dl>
+</form>
+
+<br>Sentiment:<br>
+<b><font color={% if pred_class==1 %} #0ACF00 {% elif pred_class==0 %} #FF0000 {% endif %}>{{ prediction_message }}</font></b>

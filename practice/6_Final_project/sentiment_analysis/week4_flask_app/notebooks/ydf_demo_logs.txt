@@ -1,0 +1,121 @@
+<response>
+gdgdgdhgf
+probably negative
+</response>
+<response>
+it is good cinema
+neutral or uncertain negative
+</response>
+<response>
+
+ good cinema
+neutral or uncertain negative
+</response>
+<response>
+ good cinema
+neutral or uncertain negative
+</response>
+<response>
+good cinema
+neutral or uncertain negative
+</response>
+<response>
+good
+neutral or uncertain negative
+</response>
+<response>
+bad
+ negative
+</response>
+<response>
+well
+neutral or uncertain positive
+</response>
+<response>
+well good yes
+probably positive
+</response>
+<response>
+well good yes good good
+probably positive
+</response>
+<response>
+well good yes good good
+probably positive
+</response>
+<response>
+well good yes good good
+probably positive
+</response>
+<response>
+well good yes good good
+probably positive
+</response>
+rrr
+<response>
+it's good film 
+neutral or uncertain negative
+</response>
+<response>
+it's good film good
+neutral or uncertain positive
+</response>
+<response>
+it's good film good well
+probably positive
+</response>
+<response>
+
+probably negative
+</response>
+<response>
+good
+neutral or uncertain negative
+</response>
+<response>
+good
+neutral or uncertain negative
+</response>
+<response>
+хороший фильм
+probably negative
+</response>
+<response>
+хороший фильм
+probably negative
+</response>
+<response>
+<date_time>
+Friday, 09. March 2018 01:31PM
+</date_time>
+хороший фильм
+probably negative
+</response>
+<response>
+<date_time>
+Friday, 09. March 2018 01:31PM
+</date_time>
+хороший фильм
+probably negative
+</response>
+<response>
+<date_time>
+Friday, 09. March 2018 01:31PM
+</date_time>
+хороший фильм
+probably negative
+</response>
+<response>
+<date_time>
+Friday, 09. March 2018 01:31PM
+</date_time>
+очень хороший фильм
+probably negative
+</response>
+<response>
+<date_time>
+Friday, 09. March 2018 01:31PM
+</date_time>
+очень хороший фильм
+probably negative
+</response>

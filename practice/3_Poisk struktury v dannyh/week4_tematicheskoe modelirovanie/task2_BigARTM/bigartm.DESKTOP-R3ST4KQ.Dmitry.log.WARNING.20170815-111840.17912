@@ -1,0 +1,22 @@
+Log file created at: 2017/08/15 11:18:40
+Running on machine: DESKTOP-R3ST4KQ
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0815 11:18:40.160357 12612 helpers.cc:211] File already exists: lectures_batches_v2\aaaaaa.batch
+W0815 11:18:40.179370 16276 helpers.cc:211] File already exists: lectures_batches_v2\aaaaab.batch
+W0815 11:18:40.198387 15256 helpers.cc:211] File already exists: lectures_batches_v2\aaaaac.batch
+W0815 11:18:40.214402 10092 helpers.cc:211] File already exists: lectures_batches_v2\aaaaad.batch
+W0815 11:18:40.234414  8164 helpers.cc:211] File already exists: lectures_batches_v2\aaaaae.batch
+W0815 11:18:40.242420  5144 helpers.cc:211] File already exists: lectures_batches_v2\aaaaaf.batch
+W0815 11:18:40.284448  6312 helpers.cc:211] File already exists: lectures_batches_v2\aaaaah.batch
+W0815 11:18:40.294457 11616 helpers.cc:211] File already exists: lectures_batches_v2\aaaaag.batch
+W0815 11:18:40.303970 12612 helpers.cc:211] File already exists: lectures_batches_v2\aaaaai.batch
+W0815 11:18:40.424566 16276 helpers.cc:211] File already exists: lectures_batches_v2\aaaaaj.batch
+W0815 11:18:40.452585 16276 helpers.cc:211] File already exists: lectures_batches_v2\aaaaar.batch
+W0815 11:18:40.459590 12612 helpers.cc:211] File already exists: lectures_batches_v2\aaaaaq.batch
+W0815 11:18:40.636713 15256 helpers.cc:211] File already exists: lectures_batches_v2\aaaaak.batch
+W0815 11:18:40.648221 11616 helpers.cc:211] File already exists: lectures_batches_v2\aaaaap.batch
+W0815 11:18:40.662730  6312 helpers.cc:211] File already exists: lectures_batches_v2\aaaaao.batch
+W0815 11:18:40.673738 10092 helpers.cc:211] File already exists: lectures_batches_v2\aaaaal.batch
+W0815 11:18:40.686746  5144 helpers.cc:211] File already exists: lectures_batches_v2\aaaaan.batch
+W0815 11:18:40.700755  8164 helpers.cc:211] File already exists: lectures_batches_v2\aaaaam.batch
+W0815 11:19:41.140358  5844 check_messages.h:959] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;

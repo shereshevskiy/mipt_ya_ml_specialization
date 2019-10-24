@@ -1,0 +1,190 @@
+<response>
+good cinema
+neutral or uncertain negative
+</response>
+<response>
+well!
+neutral or uncertain positive
+</response>
+<response>
+bad (
+ negative
+</response>
+<response>
+it's a good film. I nice you
+
+neutral or uncertain negative
+</response>
+<response>
+it's a good film. I nice you
+
+neutral or uncertain negative
+</response>
+<response>
+it's a good film. I nice you
+bad
+
+probably negative
+</response>
+<response>
+
+bad
+
+ negative
+</response>
+<response>
+good
+
+neutral or uncertain negative
+</response>
+<response>
+good good
+
+
+neutral or uncertain positive
+</response>
+<response>
+good good good
+
+
+probably positive
+</response>
+<response>
+good good good good
+
+
+probably positive
+</response>
+<response>
+good good good good
+
+good good good good
+ positive
+</response>
+<response>
+good good good good
+bad
+good good good good
+probably positive
+</response>
+<response>
+good good good good
+bad
+good good good good good good good good
+ positive
+</response>
+<response>
+good good good good
+bad
+good good good good good good good good
+ positive
+</response>
+<response>
+пщщв
+probably negative
+</response>
+<response>
+good
+neutral or uncertain negative
+</response>
+<response>
+good
+neutral or uncertain negative
+</response>
+<response>
+good
+neutral or uncertain negative
+</response>
+<response>
+good
+neutral or uncertain negative
+</response>
+<response>
+good good
+neutral or uncertain positive
+</response>
+<response>
+good good good
+probably positive
+</response>
+<response>
+good good good
+probably positive
+</response>
+<response>
+good good good
+probably positive
+</response>
+<response>
+bad
+ negative
+</response>
+<response>
+good good
+
+neutral or uncertain positive
+</response>
+<response>
+Good 
+neutral or uncertain negative
+</response>
+<response>
+it is very good film
+neutral or uncertain negative
+</response>
+<response>
+it is very good film. Very good!
+neutral or uncertain positive
+</response>
+<response>
+it is a good film
+neutral or uncertain negative
+</response>
+<response>
+it is a very good film
+neutral or uncertain negative
+</response>
+<response>
+it is a very good film
+neutral or uncertain negative
+</response>
+<response>
+it is a very good film
+neutral or uncertain negative
+</response>
+<response>
+it is a very good film. Very good
+neutral or uncertain positive
+</response>
+<response>
+it is a very good film. Very good. Very good
+probably positive
+</response>
+<response>
+good
+neutral or uncertain negative
+</response>
+<response>
+good good
+neutral or uncertain positive
+</response>
+<response>
+good good good
+probably positive
+</response>
+<response>
+good good good good
+probably positive
+</response>
+<response>
+good good good good
+probably positive
+</response>
+<response>
+good good good good good
+probably positive
+</response>
+<response>
+good good good good good good
+ positive
+</response>

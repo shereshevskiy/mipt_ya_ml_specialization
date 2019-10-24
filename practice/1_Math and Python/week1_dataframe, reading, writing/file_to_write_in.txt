@@ -1,0 +1,2 @@
+vtoraya stroka dlya zapisi v fayl
+tretya stroka dlya zapisi v fayl
